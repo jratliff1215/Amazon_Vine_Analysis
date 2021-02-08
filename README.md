@@ -11,10 +11,22 @@ Using PySpark our team sorted and filtered data from the AWS dataset to get the 
 Using our created DataFrame, we can provide an analysis to the following questions:
 1. How many Vine reviews and non-Vine reviews were there? - There are 3 Vine reviews and 3,094 non-Vine reviews.
 
+<img src="https://github.com/jratliff1215/Amazon_Vine_Analysis/blob/main/images/Vine_Reviews.PNG" width="600" height="150">
+
+<img src="https://github.com/jratliff1215/Amazon_Vine_Analysis/blob/main/images/NonVine_Reviews.PNG" width="600" height="150">
+
+
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars? - There are 2 Vine reviews which are 5 stars and 1,704 non-Vine reviews which are 5 stars.
+
+<img src="https://github.com/jratliff1215/Amazon_Vine_Analysis/blob/main/images/Vine_Five.PNG" width="650" height="150">
+
+<img src="https://github.com/jratliff1215/Amazon_Vine_Analysis/blob/main/images/Nonvine_Five.PNG" width="650" height="150">
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? - 66.66 % of Vine reviews are 5 stars and 55.07 % percentage of non-Vine reviews are 5 stars.
 
+<img src="https://github.com/jratliff1215/Amazon_Vine_Analysis/blob/main/images/Paid_Five.PNG" width="650" height="150">
+
+<img src="https://github.com/jratliff1215/Amazon_Vine_Analysis/blob/main/images/NonPaid_Five.PNG" width="650" height="150">
 
 ## Is There Bias in the Data?
 
